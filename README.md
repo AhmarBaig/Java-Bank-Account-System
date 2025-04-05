@@ -14,4 +14,4 @@ The Java program is a simple system to showcase a banking system. Create an acco
   -  ```withdrawMoney()```: Void function to withdraw amount from balance. If balance - withdraw is less than or equal to 0, an error is printed.
 
 ## :ballot_box_with_check: Purpose
-The purpose of this application is to quickly create simple Java applications.
+The purpose of this application is to quickly create simple Java applications as a way to practice OOP concepts and system/software design concepts.
