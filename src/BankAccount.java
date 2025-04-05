@@ -28,7 +28,6 @@ public class BankAccount {
         } else {
             balance += deposit;
         }
-        
     }
 
     public void withdrawMoney(long withdraw) {
@@ -37,6 +36,5 @@ public class BankAccount {
             balance -= withdraw;
         }
     }
-
 }
 
